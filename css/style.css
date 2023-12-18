@@ -1,0 +1,78 @@
+.nav {
+    text-align: center;
+    background-color: rgb(40, 42, 53);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 25px;
+    word-spacing: 20px;
+}
+
+.text-style {
+    text-decoration: none;
+    color: white;
+}
+.heading {
+    font-size: 40px;
+}
+.button-style {
+    color: white;
+    background-color: #04aa6d;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.button-style:hover {
+    background-color: #078959;
+}
+.button-style:active {
+    background-color: #04aa6d;
+}
+.about-par {
+    background-color: rgb(217, 238, 225);
+}
+.par-style {
+    line-height: 40px;
+    text-indent: 20px;
+}
+.button-style2 {
+    color: white;
+    background-color: #04aa6d;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.button-style2:hover {
+    background-color: #078959;
+}
+.button-style2:active {
+    background-color: #04aa6d;
+}
+
+.button-style3 {
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.button-style3:hover {
+    background-color: #312e2e;
+}
+.button-style3:active {
+    background-color: #000000;
+}
+.heading2 {
+    text-indent: 15px;
+}
